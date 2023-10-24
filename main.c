@@ -1,10 +1,10 @@
 #include<stdio.h>
 #include<string.h>
-#include"copy.h"
+#include "copy.h"
 
 #define MAXLINE 100
-char line[MAXLINE]
-char longest[MAXLINE]
+char line[MAXLINE];
+char longest[MAXLINE];
 
 int main(){
 	int len;
